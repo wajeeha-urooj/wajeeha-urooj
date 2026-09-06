@@ -9,36 +9,24 @@
 
 ## 🧬 About Me
 
-I am a **Gold Medalist BS Bioinformatics graduate** currently completing an **MPhil in Bioinformatics at Hazara University Mansehra**, under the supervision of **Dr. Ashfaq Ahmad**.
+I am a **Bioinformatics researcher** with a background in **computational biology, biomedical data science, and machine learning**.
 
-My research interests lie at the intersection of **bioinformatics, computational biology, biomedical data science, and machine learning**. I work with biological and biomedical datasets to identify meaningful patterns, develop computational models, and generate biologically interpretable insights.
+I hold a **BS in Bioinformatics** from Hazara University Mansehra and am completing my **MPhil in Bioinformatics**, with my thesis submitted and defense pending.
 
-My experience spans **cancer genomics, protein bioinformatics, machine learning, statistical analysis, network biology, and computational structural biology**.
+My research experience spans **cancer genomics, protein bioinformatics, structural biology, biomedical data analysis, and machine learning**. I am interested in using computational and quantitative approaches to understand complex biological systems and address biomedical research questions.
 
 ---
 
 ## 🔬 Research Interests
 
-**Computational Biology**
-
-* Cancer genomics and transcriptomics
-* Protein bioinformatics and structural biology
-* Biological networks and pathway analysis
-* Therapeutic target discovery
-
-**Biomedical Data Science**
-
-* Machine learning for biological data
-* Predictive modeling and classification
-* Statistical and multivariable analysis
-* Biomarker and feature discovery
-
-**Emerging Computational Approaches**
-
-* Protein language models
-* Protein embeddings
-* Structure prediction
-* AI/ML applications in biology
+* **Computational Biology & Bioinformatics**
+* **Cancer Genomics & Transcriptomics**
+* **Protein & Structural Bioinformatics**
+* **Biomedical Data Science**
+* **Machine Learning & Predictive Modeling**
+* **Biological Network & Pathway Analysis**
+* **Therapeutic Target Discovery**
+* **AI/ML Applications in Biology**
 
 ---
 
@@ -46,12 +34,11 @@ My experience spans **cancer genomics, protein bioinformatics, machine learning,
 
 ### Identification and Elucidation of Therapeutic Targets in Nasopharyngeal Carcinoma: A Computational Approach
 
-**Current Trends in OMICS, 6(1), 40–63 (2026)**
-**First Author**
+**Current Trends in OMICS, 6(1), 40–63 (2026)** · **First Author**
 
 [![DOI](https://img.shields.io/badge/DOI-10.32350%2Fcto.61.03-blue)](https://journals.umt.edu.pk/index.php/CTO/article/view/7696)
 
-Computational analysis of **nasopharyngeal carcinoma** using transcriptomic data, pathway enrichment, protein–protein interaction networks, and hub-gene prioritization.
+Computational investigation of **nasopharyngeal carcinoma** using transcriptomic analysis, pathway enrichment, protein–protein interaction networks, and hub-gene prioritization.
 
 **Key result:** Identified **10 hub genes** and highlighted inflammatory cytokine–chemokine and extracellular matrix remodeling modules.
 
@@ -59,13 +46,11 @@ Computational analysis of **nasopharyngeal carcinoma** using transcriptomic data
 
 ---
 
-## 🧪 Featured Research
+## 🧪 Selected Research Projects
 
 ### 🧬 Cancer Genomics & Therapeutic Target Discovery
 
-Integrated transcriptomic, enrichment, and network-based analysis of nasopharyngeal carcinoma using **GEO, STRING, Cytoscape, and CytoHubba**.
-
-**Focus:** Differential expression · Pathway analysis · PPI networks · Hub-gene prioritization
+Integrated transcriptomic and network-based analysis of nasopharyngeal carcinoma using **GEO2R, STRING, Cytoscape, and CytoHubba**.
 
 ---
 
@@ -75,24 +60,20 @@ Integrated transcriptomic, enrichment, and network-based analysis of nasopharyng
 
 Applied **ESM-2 protein embeddings, K-means clustering, and structural prediction** to investigate venom-derived peptides and their potential interactions with **IGF2BP1** and **P53**.
 
-**Focus:** Protein language models · Sequence analysis · Clustering · Structural prediction
-
 ---
 
 ### 📊 Biomedical Data Science & Machine Learning
 
 **MPhil Thesis | BMI, Endocrine Signatures & Clinical Phenotypes in PCOS**
 
-Analyzed a **508-patient biomedical dataset** using statistical modeling, clustering, Random Forest, and ROC-AUC analysis.
+Analyzed a **508-patient biomedical dataset** using statistical analysis, clustering, Random Forest, and ROC-AUC evaluation.
 
-**Model performance:**
-`ROC-AUC = 0.927` vs. `0.769` lifestyle-only baseline
-
-This project developed my experience in **biomedical data analysis, predictive modeling, and statistical interpretation**.
+**ROC-AUC:** `0.927`
+**Lifestyle-only baseline:** `0.769`
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tools & Technologies
 
 ### Programming & Data Science
 
@@ -106,23 +87,19 @@ This project developed my experience in **biomedical data analysis, predictive m
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat\&logo=linux\&logoColor=black)
 
-### Bioinformatics Tools
+### Bioinformatics
 
 **GEO / GEO2R · STRING · Cytoscape · CytoHubba · ESM-2 · Boltz-2**
 
 ### Analytical Methods
 
-**Machine Learning · Clustering · Statistical Testing · Regression · Correlation Analysis · ROC-AUC · Network Analysis**
+**Machine Learning · Clustering · Statistical Analysis · Regression · Correlation Analysis · ROC-AUC · Network Analysis**
 
 ---
 
 ## 🎯 Research Direction
 
-I am interested in developing computational approaches that integrate:
-
-**Biological Data + Bioinformatics + Machine Learning + Quantitative Analysis**
-
-to investigate complex biological and biomedical questions.
+I am interested in developing computational approaches that integrate **biological data, bioinformatics, quantitative analysis, and machine learning** to investigate complex biological and biomedical questions.
 
 My broader interests include **computational genomics, protein science, structural bioinformatics, biomedical AI, and data-driven discovery**.
 
@@ -134,8 +111,6 @@ My broader interests include **computational genomics, protein science, structur
 
 🔗 **LinkedIn:** [Wajeeha Urooj](https://www.linkedin.com/in/wajeeha-urooj-527a73206/)
 
-💻 **GitHub:** [wajeeha-urooj](https://github.com/wajeeha-urooj)
-
 ---
 
-*Building computational approaches to understand complex biological systems.*
+*Computational approaches for understanding complex biological systems.*
