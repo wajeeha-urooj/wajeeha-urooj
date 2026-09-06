@@ -112,4 +112,4 @@ My broader interests include **computational genomics, protein science, structur
 
 ---
 
-*Computational approaches for understanding complex biological systems.*
+*Building computational approaches to understand complex biological systems.*
