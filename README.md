@@ -10,11 +10,6 @@
 ---
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/wajeeha-urooj-527a73206/)
-[![Research Email](https://img.shields.io/badge/Research%20Email-D14836?style=flat\&logo=gmail\&logoColor=white)](mailto:wajeehaurooj.research@gmail.com)
-
----
-
 ## 🧬 About Me
 
 I am a **Bioinformatics researcher** with a background in **computational biology, biomedical data science, and machine learning**.
