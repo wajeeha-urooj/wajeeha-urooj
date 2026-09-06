@@ -107,9 +107,8 @@ My broader interests include **computational genomics, protein science, structur
 
 ## 🤝 Contact
 
-📧 **Research Email:** [wajehaurooj.research@gmail.com](mailto:wajeehaurooj.research@gmail.com)
-
-🔗 **LinkedIn:** [Wajeeha Urooj](https://www.linkedin.com/in/wajeeha-urooj-527a73206/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/wajeeha-urooj-527a73206/)
+[![Research Email](https://img.shields.io/badge/Research%20Email-D14836?style=flat\&logo=gmail\&logoColor=white)](mailto:wajeehaurooj.research@gmail.com)
 
 ---
 
