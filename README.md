@@ -2,6 +2,14 @@
 
 ### Bioinformatics Researcher | Computational Biologist
 
+> Exploring biological questions through **bioinformatics, biomedical data science, machine learning, and computational biology**.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/wajeeha-urooj-527a73206/)
+[![Research Email](https://img.shields.io/badge/Research%20Email-D14836?style=flat\&logo=gmail\&logoColor=white)](mailto:wajehaurooj.research@gmail.com)
+
+---
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/wajeeha-urooj-527a73206/)
 [![Research Email](https://img.shields.io/badge/Research%20Email-D14836?style=flat\&logo=gmail\&logoColor=white)](mailto:wajeehaurooj.research@gmail.com)
 
