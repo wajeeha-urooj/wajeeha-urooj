@@ -108,6 +108,10 @@ I am interested in developing computational approaches that integrate **biologic
 My broader interests include **computational genomics, protein science, structural bioinformatics, biomedical AI, and data-driven discovery**.
 
 ---
+📌 Pinned Research Repositories
+   🧬 Cancer Genomics
+   🐍 Protein Bioinformatics
+   📊 Biomedical Data Science
 
 ## 🤝 Contact
 
