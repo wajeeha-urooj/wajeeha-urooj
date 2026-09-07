@@ -50,33 +50,26 @@ Computational investigation of **nasopharyngeal carcinoma** using transcriptomic
 
 ---
 
-## 🧪 Selected Research Projects
-
-### 🧬 Cancer Genomics & Therapeutic Target Discovery
-
-Integrated transcriptomic and network-based analysis of nasopharyngeal carcinoma using **GEO2R, STRING, Cytoscape, and CytoHubba**.
-
----
-
-### 🐍 Protein Bioinformatics & Structural Biology
-
-**In Silico Characterization of Snake Venom-Derived Anticancer Peptides**
-
-Applied **ESM-2 protein embeddings, K-means clustering, and structural prediction** to investigate venom-derived peptides and their potential interactions with **IGF2BP1** and **P53**.
-
----
-
+## 🧪 Current Research
 ### 📊 Biomedical Data Science & Machine Learning
 
-**MPhil Thesis | BMI, Endocrine Signatures & Clinical Phenotypes in PCOS**
+**MPhil Thesis | BMI, Endocrine Signatures & Reproductive Health in women with PCOS**
 
 Analyzed a **508-patient biomedical dataset** using statistical analysis, clustering, Random Forest, and ROC-AUC evaluation.
 
 **ROC-AUC:** `0.927`
 **Lifestyle-only baseline:** `0.769`
 
+**Status:** Thesis submitted, defense pending.
 ---
+### 🐍 Protein Bioinformatics & Structural Biology
 
+**In Silico Characterization of Snake Venom-Derived Anticancer Peptides**
+
+Applied **ESM-2 protein embeddings, K-means clustering, and structural prediction** to investigate venom-derived peptides and their potential interactions with **IGF2BP1** and **P53**.
+
+**Status:** Research manuscript prepared, publication pending.
+---
 ## 🛠️ Tools & Technologies
 
 ### Programming & Data Science
