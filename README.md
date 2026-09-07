@@ -57,8 +57,6 @@ Computational investigation of **nasopharyngeal carcinoma** using transcriptomic
 
 Analyzed a **508-patient biomedical dataset** using statistical analysis, clustering, Random Forest, and ROC-AUC evaluation.
 
-**ROC-AUC:** `0.927`
-**Lifestyle-only baseline:** `0.769`
 
 **Status:** Thesis submitted, defense pending, Research manuscript prepared.
 
