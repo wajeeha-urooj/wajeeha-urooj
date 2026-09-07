@@ -61,6 +61,7 @@ Analyzed a **508-patient biomedical dataset** using statistical analysis, cluste
 **Lifestyle-only baseline:** `0.769`
 
 **Status:** Thesis submitted, defense pending.
+
 ---
 ### 🐍 Protein Bioinformatics & Structural Biology
 
@@ -69,6 +70,7 @@ Analyzed a **508-patient biomedical dataset** using statistical analysis, cluste
 Applied **ESM-2 protein embeddings, K-means clustering, and structural prediction** to investigate venom-derived peptides and their potential interactions with **IGF2BP1** and **P53**.
 
 **Status:** Research manuscript prepared, publication pending.
+
 ---
 ## 🛠️ Tools & Technologies
 
